@@ -275,9 +275,9 @@ Ultimately, ECE’s implications reach beyond the technological realm into the p
 
 
 11. Copyright & Authorship Acknowledgment
+    Author: Joel Rosa
+    Date of Creation: March 2025
+    Copyright Holder: Joel Rosa
+    © 2025 Joel Rosa. All Rights Reserved.
 
-Author: Joel Rosa
-Creation Date: March 2025
-Copyright Holder: Joel Rosa
-All Rights Reserved © 2025 Joel Rosa
-
+This work is protected under applicable copyright laws. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the express written permission of the author, except for non-commercial educational or scholarly use with proper attribution.
